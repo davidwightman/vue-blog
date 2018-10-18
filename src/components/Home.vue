@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div class="contain">
-      <h1>Leadership Connect Engineering Blog</h1>
+      <h1>Engineering Blog</h1>
 
       <div class="new">
         <h2>Add a New Post</h2>
