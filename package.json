@@ -2,7 +2,7 @@
   "name": "vue-test",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "David Wightman <dwightman@leadershipconnect.io>",
+  "author": "David Wightman <david@davidwightman.org>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
